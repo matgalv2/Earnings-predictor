@@ -1,0 +1,189 @@
+dependent_variable	independent_variable	value
+rate_per_hour	date_of_employment	0.06437
+rate_per_hour	age	0.06496
+rate_per_hour	experience_years_it	0.12327
+rate_per_hour	team_size	-0.00043
+rate_per_hour	is_sex_F	0.00208
+rate_per_hour	is_sex_M	-0.00124
+rate_per_hour	is_country_Spain	-0.00302
+rate_per_hour	is_country_France	0.00034
+rate_per_hour	is_country_Poland	-0.00671
+rate_per_hour	is_country_Greece	0.00671
+rate_per_hour	is_country_Sweden	-0.00444
+rate_per_hour	is_country_Germany	0.00163
+rate_per_hour	is_country_United Kingdom	0.00252
+rate_per_hour	is_country_Russia	-0.00299
+rate_per_hour	is_country_Italy	0.0007
+rate_per_hour	is_languages_Polish,English	-0.00047
+rate_per_hour	is_languages_Italian	-0.00085
+rate_per_hour	is_languages_Spanish,English	0.00382
+rate_per_hour	is_languages_Swedish	-0.00231
+rate_per_hour	is_languages_Russian	-0.00356
+rate_per_hour	is_languages_Spanish	-0.00137
+rate_per_hour	is_languages_German,English	-0.0002
+rate_per_hour	is_languages_English	0.00138
+rate_per_hour	is_languages_Greek	0.00207
+rate_per_hour	is_languages_Russian,English	-0.00218
+rate_per_hour	is_languages_English,English	0.00056
+rate_per_hour	is_languages_Italian,English	0.00153
+rate_per_hour	is_languages_Swedish,English	-0.00209
+rate_per_hour	is_languages_French	0.00199
+rate_per_hour	is_languages_French,English	-0.00041
+rate_per_hour	is_languages_German	9e-05
+rate_per_hour	is_languages_Greek,English	0.00226
+rate_per_hour	is_languages_Polish	0.00437
+rate_per_hour	is_speciality_Tech lead	-0.00178
+rate_per_hour	is_speciality_DB Administrator	-0.00313
+rate_per_hour	is_speciality_Data quality manager	-0.00123
+rate_per_hour	is_speciality_IT Security specialist	-0.00276
+rate_per_hour	is_speciality_Cloud system engineer	0.00153
+rate_per_hour	is_speciality_Data scientist	0.0008
+rate_per_hour	is_speciality_Backend	0.00207
+rate_per_hour	is_speciality_Computer scientist	0.00106
+rate_per_hour	is_speciality_Applications engineer	0.00345
+rate_per_hour	is_speciality_Frontend	-0.00409
+rate_per_hour	is_speciality_Software Engineer	0.00319
+rate_per_hour	is_speciality_Other	-0.00149
+rate_per_hour	is_speciality_Systems analyst	-0.00138
+rate_per_hour	is_speciality_Web administrator	0.00118
+rate_per_hour	is_core_programming_language_Kotlin	-0.00408
+rate_per_hour	is_core_programming_language_Swift	-0.00076
+rate_per_hour	is_core_programming_language_Cobol	-0.00136
+rate_per_hour	is_core_programming_language_Go	-0.00147
+rate_per_hour	is_core_programming_language_Objective-C	0.0024
+rate_per_hour	is_core_programming_language_JavaScript	-0.00335
+rate_per_hour	is_core_programming_language_R	0.0024
+rate_per_hour	is_core_programming_language_Ruby	0.00027
+rate_per_hour	is_core_programming_language_PHP	0.0012
+rate_per_hour	is_core_programming_language_Python	-0.00309
+rate_per_hour	is_core_programming_language_Java	0.00098
+rate_per_hour	is_core_programming_language_Other	-0.00243
+rate_per_hour	is_academic_title_Master	-0.00324
+rate_per_hour	is_academic_title_Bachelor	0.00024
+rate_per_hour	is_academic_title_Licence	0.00105
+rate_per_hour	is_academic_title_Doctorate	0.00014
+rate_per_hour	is_academic_title_No degree	-0.00041
+rate_per_hour	education_towards_it	-0.00314
+rate_per_hour	is_company_country_Spain	0.0002
+rate_per_hour	is_company_country_France	-0.00286
+rate_per_hour	is_company_country_Poland	0.00286
+rate_per_hour	is_company_country_Greece	-0.00256
+rate_per_hour	is_company_country_Sweden	0.00027
+rate_per_hour	is_company_country_Germany	-0.00322
+rate_per_hour	is_company_country_United Kingdom	0.00011
+rate_per_hour	is_company_country_Russia	-0.00081
+rate_per_hour	is_company_country_Italy	0.00093
+rate_per_hour	is_company_type_Software house	-0.00106
+rate_per_hour	is_company_type_Big tech	0.00168
+rate_per_hour	is_company_type_Startup	0.00465
+rate_per_hour	is_company_type_Company	0.00089
+rate_per_hour	is_company_type_Public institution	-0.00111
+rate_per_hour	is_company_type_Other	0.00036
+rate_per_hour	is_company_type_Corporation	-0.00045
+rate_per_hour	is_work_form_hybrid	0.00053
+rate_per_hour	is_work_form_stationary	-0.00015
+rate_per_hour	is_work_form_remote	-0.00025
+rate_per_hour	is_team_type_local	-0.0027
+rate_per_hour	is_team_type_international	0.00288
+rate_per_hour	is_form_of_employment_contractor	-0.0006
+rate_per_hour	is_form_of_employment_employee	0.00235
+rate_per_hour	full_time	-0.00235
+rate_per_hour	paid_days_off	-0.00012
+rate_per_hour	insurance	0.00012
+rate_per_hour	training_sessions	0.00292
+
+
+------------------------------------------------------------
+dependent_variable	independent_variable	value
+rate_per_hour	date_of_employment	0.06437
+rate_per_hour	age	0.06496
+rate_per_hour	experience_years_it	0.12327
+rate_per_hour	team_size	-0.00043
+rate_per_hour	is_sex_F	0.00208
+rate_per_hour	is_sex_M	-0.00124
+rate_per_hour	is_country_Spain	-0.00302
+rate_per_hour	is_country_France	0.00034
+rate_per_hour	is_country_Poland	-0.00671
+rate_per_hour	is_country_Greece	0.00671
+rate_per_hour	is_country_Sweden	-0.00444
+rate_per_hour	is_country_Germany	0.00163
+rate_per_hour	is_country_United Kingdom	0.00252
+rate_per_hour	is_country_Russia	-0.00299
+rate_per_hour	is_country_Italy	0.0007
+rate_per_hour	is_languages_Polish,English	-0.00047
+rate_per_hour	is_languages_Italian	-0.00085
+rate_per_hour	is_languages_Spanish,English	0.00382
+rate_per_hour	is_languages_Swedish	-0.00231
+rate_per_hour	is_languages_Russian	-0.00356
+rate_per_hour	is_languages_Spanish	-0.00137
+rate_per_hour	is_languages_German,English	-0.0002
+rate_per_hour	is_languages_English	0.00138
+rate_per_hour	is_languages_Greek	0.00207
+rate_per_hour	is_languages_Russian,English	-0.00218
+rate_per_hour	is_languages_English,English	0.00056
+rate_per_hour	is_languages_Italian,English	0.00153
+rate_per_hour	is_languages_Swedish,English	-0.00209
+rate_per_hour	is_languages_French	0.00199
+rate_per_hour	is_languages_French,English	-0.00041
+rate_per_hour	is_languages_German	9e-05
+rate_per_hour	is_languages_Greek,English	0.00226
+rate_per_hour	is_languages_Polish	0.00437
+rate_per_hour	is_speciality_Tech lead	-0.00178
+rate_per_hour	is_speciality_DB Administrator	-0.00313
+rate_per_hour	is_speciality_Data quality manager	-0.00123
+rate_per_hour	is_speciality_IT Security specialist	-0.00276
+rate_per_hour	is_speciality_Cloud system engineer	0.00153
+rate_per_hour	is_speciality_Data scientist	0.0008
+rate_per_hour	is_speciality_Backend	0.00207
+rate_per_hour	is_speciality_Computer scientist	0.00106
+rate_per_hour	is_speciality_Applications engineer	0.00345
+rate_per_hour	is_speciality_Frontend	-0.00409
+rate_per_hour	is_speciality_Software Engineer	0.00319
+rate_per_hour	is_speciality_Other	-0.00149
+rate_per_hour	is_speciality_Systems analyst	-0.00138
+rate_per_hour	is_speciality_Web administrator	0.00118
+rate_per_hour	is_core_programming_language_Kotlin	-0.00408
+rate_per_hour	is_core_programming_language_Swift	-0.00076
+rate_per_hour	is_core_programming_language_Cobol	-0.00136
+rate_per_hour	is_core_programming_language_Go	-0.00147
+rate_per_hour	is_core_programming_language_Objective-C	0.0024
+rate_per_hour	is_core_programming_language_JavaScript	-0.00335
+rate_per_hour	is_core_programming_language_R	0.0024
+rate_per_hour	is_core_programming_language_Ruby	0.00027
+rate_per_hour	is_core_programming_language_PHP	0.0012
+rate_per_hour	is_core_programming_language_Python	-0.00309
+rate_per_hour	is_core_programming_language_Java	0.00098
+rate_per_hour	is_core_programming_language_Other	-0.00243
+rate_per_hour	is_academic_title_Master	-0.00324
+rate_per_hour	is_academic_title_Bachelor	0.00024
+rate_per_hour	is_academic_title_Licence	0.00105
+rate_per_hour	is_academic_title_Doctorate	0.00014
+rate_per_hour	is_academic_title_No degree	-0.00041
+rate_per_hour	education_towards_it	-0.00314
+rate_per_hour	is_company_country_Spain	0.0002
+rate_per_hour	is_company_country_France	-0.00286
+rate_per_hour	is_company_country_Poland	0.00286
+rate_per_hour	is_company_country_Greece	-0.00256
+rate_per_hour	is_company_country_Sweden	0.00027
+rate_per_hour	is_company_country_Germany	-0.00322
+rate_per_hour	is_company_country_United Kingdom	0.00011
+rate_per_hour	is_company_country_Russia	-0.00081
+rate_per_hour	is_company_country_Italy	0.00093
+rate_per_hour	is_company_type_Software house	-0.00106
+rate_per_hour	is_company_type_Big tech	0.00168
+rate_per_hour	is_company_type_Startup	0.00465
+rate_per_hour	is_company_type_Company	0.00089
+rate_per_hour	is_company_type_Public institution	-0.00111
+rate_per_hour	is_company_type_Other	0.00036
+rate_per_hour	is_company_type_Corporation	-0.00045
+rate_per_hour	is_work_form_hybrid	0.00053
+rate_per_hour	is_work_form_stationary	-0.00015
+rate_per_hour	is_work_form_remote	-0.00025
+rate_per_hour	is_team_type_local	-0.0027
+rate_per_hour	is_team_type_international	0.00288
+rate_per_hour	is_form_of_employment_contractor	-0.0006
+rate_per_hour	is_form_of_employment_employee	0.00235
+rate_per_hour	full_time	-0.00235
+rate_per_hour	paid_days_off	-0.00012
+rate_per_hour	insurance	0.00012
+rate_per_hour	training_sessions	0.00292
