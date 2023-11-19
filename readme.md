@@ -1,5 +1,5 @@
-###Earning Predictor
-Dataset comes from [github](https://github.com/itstats/programmers_salaries).
+# Earning Predictor
+### Dataset comes from [github](https://github.com/itstats/programmers_salaries).
 
 
 | Attribute | Domain | Type |
